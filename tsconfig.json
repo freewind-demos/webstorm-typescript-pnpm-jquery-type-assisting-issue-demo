@@ -1,0 +1,22 @@
+{
+  "compilerOptions": {
+    "strict": true,
+    "target": "es5",
+    "module": "commonjs",
+    "noImplicitAny": true,
+    "removeComments": true,
+    "preserveConstEnums": true,
+    "sourceMap": true,
+    "moduleResolution": "node",
+    "lib": [
+      "es5",
+      "es2015.promise",
+      "dom",
+      "es2015.core",
+      "esnext"
+    ]
+  },
+  "exclude": [
+    "node_modules"
+  ]
+}

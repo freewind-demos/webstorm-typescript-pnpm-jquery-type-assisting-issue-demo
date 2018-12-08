@@ -1,0 +1,10 @@
+{
+  "name": "webstorm-typescript-pnpm-jquery-type-assisting-issue-demo",
+  "version": "0.1.0",
+  "devDependencies": {
+    "@types/jquery": "3.3.22"
+  },
+  "dependencies": {
+    "jquery": "3.0.0"
+  }
+}
